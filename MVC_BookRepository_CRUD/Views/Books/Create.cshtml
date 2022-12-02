@@ -1,0 +1,84 @@
+﻿@model MVC_BookRepository_CRUD.Models.Book
+@{
+    ViewBag.Title = "Create";
+}
+<div class="row">
+    <div class="col-12">
+        <h2 class=" col-12 offset-2 text-info ">Add New Book</h2>
+        @using (Html.BeginForm("Create", "Books", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.BookName, new { @class = "col-form-label col-form-label-sm col-2" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.BookName, new { @class = "form-control form-control-sm" })
+                    @Html.ValidationMessageFor(x => x.BookName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.PublishDate, new { @class = "col-form-label col-form-label-sm col-2" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.PublishDate, new { @class = "form-control form-control-sm date" })
+                    @Html.ValidationMessageFor(x => x.PublishDate, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.Price, new { @class = "col-form-label col-form-label-sm col-2" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.Price, new { @class = "form-control form-control-sm" })
+                    @Html.ValidationMessageFor(x => x.Price, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.Available, new { @class = "col-form-label col-form-label-sm col-2" })
+                <div class="col-4">
+                    @Html.CheckBoxFor(x => x.Available, new { @class = "form-check form-check-sm" })
+                    @Html.ValidationMessageFor(x => x.Available, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.PublisherId, new { @class = "col-form-label col-form-label-sm col-2" })
+                <div class="col-4">
+                    @Html.DropDownListFor(x => x.PublisherId, new SelectList(ViewBag.Publishers, "PublisherId", "PublisherName"), "Select", new { @class = "form-select form-select-sm" })
+                    @Html.ValidationMessageFor(x => x.PublisherId, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.Picture, new { @class = "col-form-label col-form-label-sm col-2" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.Picture, new { @class = "form-control form-control-sm", type = "file" })
+                    @Html.ValidationMessageFor(x => x.Picture, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            if (Request.UrlReferrer != null)
+            {
+                string returnURL = Request.UrlReferrer.ToString();
+                ViewBag.ReturnURL = returnURL;
+            }
+            <div class="form-group row mb-1">
+
+                <div class="col-4 offset-2">
+                    <button type="submit" class="btn btn-primary">Save</button>
+                    <a href="@ViewBag.ReturnURL" class="btn btn-secondary px-3">Back</a>
+                </div>
+
+            </div>
+        }
+    </div>
+</div>
+@section styles {
+    <link href="~/Content/bootstrap-datepicker.standalone.css" rel="stylesheet" />
+}
+    @section scripts{
+
+        <script src="~/Scripts/jquery-3.6.0.js"></script>
+        <script src="~/Scripts/bootstrap-datepicker.js"></script>
+        <script src="~/Scripts/jquery.validate.js"></script>
+        <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+        <script>
+            $(".date").datepicker({
+                format: "yyyy-mm-dd"
+            });
+        </script>
+    }
+
+

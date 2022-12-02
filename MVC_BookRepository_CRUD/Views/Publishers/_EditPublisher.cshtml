@@ -1,0 +1,50 @@
+﻿@model MVC_BookRepository_CRUD.Models.Publisher
+@using (Ajax.BeginForm("EditPublisher", "Publishers", new { }, new AjaxOptions
+{
+    HttpMethod = "Post",
+    InsertionMode = InsertionMode.Replace,
+    UpdateTargetId = "alert",
+    LoadingElementId = "spinner",
+    OnSuccess = "onSuccess"
+}, new { id = "f" }))
+{
+    @Html.HiddenFor(x => x.PublisherId)
+    <div class="form-group row mb-1">
+        @Html.LabelFor(x => x.PublisherName, new { @class = "col-form-label col-form-label-sm col-2" })
+        <div class="col-4">
+            @Html.TextBoxFor(x => x.PublisherName, new { @class = "form-control form-control-sm" })
+            @Html.ValidationMessageFor(x => x.PublisherName, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group row mb-1">
+        @Html.LabelFor(x => x.Address, new { @class = "col-form-label col-form-label-sm col-2" })
+        <div class="col-4">
+            @Html.TextBoxFor(x => x.Address, new { @class = "form-control form-control-sm" })
+            @Html.ValidationMessageFor(x => x.Address, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group row mb-1">
+        @Html.LabelFor(x => x.Email, new { @class = "col-form-label col-form-label-sm col-2" })
+        <div class="col-4">
+            @Html.TextBoxFor(x => x.Email, new { @class = "form-control form-control-sm" })
+            @Html.ValidationMessageFor(x => x.Email, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    if (Request.UrlReferrer != null)
+    {
+        string returnURL = Request.UrlReferrer.ToString();
+        ViewBag.ReturnURL = returnURL;
+    }
+
+    <div class="row">
+        <div class="col-12 form-group row mb-1">
+
+            <div class="col-4 offset-2">
+                <button type="submit" class="btn btn-primary px-3">UPDATE</button>
+                <a href="@ViewBag.ReturnURL" class="btn btn-secondary px-3">Back</a>
+            </div>
+
+        </div>
+    </div>
+}
+

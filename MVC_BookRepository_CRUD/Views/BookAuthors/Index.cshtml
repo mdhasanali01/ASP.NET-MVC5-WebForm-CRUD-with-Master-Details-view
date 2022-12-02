@@ -1,0 +1,67 @@
+﻿@model IEnumerable<MVC_BookRepository_CRUD.Models.Book>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h3>Book Record</h3>
+        <div class="d-flex justify-content-end mb-1">
+            @Html.ActionLink("Create New", "Create", new { }, new { @class = "btn btn-primary btn-sm" })
+        </div>
+        <table class="table table-bordered table-striped">
+            <thead class="bg-light">
+                <tr>
+                    <th class="text-center">@Html.DisplayNameFor(t => t.Picture)</th>
+                    <th class="text-center">@Html.DisplayNameFor(t=> t.BookName)</th>
+                    <th class="text-center">@Html.DisplayNameFor(t => t.PublishDate)</th>
+                    <th class="text-center">@Html.DisplayNameFor(t => t.Price)</th>
+                    <th class="text-center">@Html.DisplayNameFor(t => t.Available)</th>
+                    <th class="text-center">@Html.DisplayNameFor(t=> t.PublisherId)</th>
+                    
+                    
+                    
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var x in Model)
+                {
+                    <tr>
+                        <td style="width:70px" class="text-center">
+                            <img src="~/Uploads/@x.Picture" style="width:50px" class="img-thumbnail" />
+                        </td>
+                        <td>@Html.DisplayFor(t => x.BookName)</td>
+                        <td>@Html.DisplayFor(t => x.PublishDate)</td>
+                        <td>@Html.DisplayFor(t => x.Price)</td>
+                        <td>@Html.DisplayFor(t => x.Available)</td>
+                        <td>@Html.DisplayFor(t=> x.Publisher.PublisherName)</td>
+                        
+                    </tr>
+                    <tr>
+                        <td class="border-end-0">&nbsp;</td>
+                        <td colspan="6" class="border-start-0">
+                            <h4>Author</h4>
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th class="text-center">Author Name</th>
+                                        <th class="text-center">Address</th>
+                                    </tr>
+
+                                </thead>
+                                @foreach (var y in x.AuthorBooks)
+                                {
+                                    <tr>
+                                        <td>@y.Author.AuthorName</td>
+                                        <td >@y.Author.Address</td>
+                                    </tr>
+                                }                               
+                            </table>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

@@ -1,0 +1,9 @@
+﻿@model MVC_BookRepository_CRUD.Models.AuthorBook
+<div class="form-group row mb-1">
+    @Html.LabelFor(x => x.AuthorId, new { @class = "col-form-label col-2" })
+    <div class="col-4">
+        @Html.DropDownListFor(x => x.AuthorId, new SelectList(ViewBag.AUthors, "AuthorId", "AuthorName"), "Select", new { @class = "form-select select" })
+        @Html.ValidationMessageFor(x => x.AuthorId, "", new { @class = "text-danger" })
+    </div>
+</div>
+

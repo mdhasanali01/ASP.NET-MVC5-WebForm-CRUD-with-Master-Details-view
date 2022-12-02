@@ -1,0 +1,626 @@
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.dll.config
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.pdb
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.exe
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.exe.config
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.rsp
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.exe
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.exe.config
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.rsp
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Collections.Immutable.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Reflection.Metadata.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.exe
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.exe.config
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.rsp
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\VBCSCompiler.exe
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\VBCSCompiler.exe.config
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.SqlServer.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Web.Infrastructure.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Helpers.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Mvc.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Razor.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Webpages.Deployment.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Webpages.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Webpages.Razor.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.xml
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.SqlServer.xml
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Razor.xml
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Webpages.xml
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Webpages.Deployment.xml
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Webpages.Razor.xml
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Helpers.xml
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Mvc.xml
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.AssemblyReference.cache
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.CoreCompileInputs.cache
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.CopyComplete
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.pdb
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Buffers.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Memory.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Numerics.Vectors.dll
+I:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.dll.config
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.pdb
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.exe
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.exe.config
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.rsp
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.exe
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.exe.config
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.rsp
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Buffers.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Collections.Immutable.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Memory.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Numerics.Vectors.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Reflection.Metadata.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.exe
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.exe.config
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.rsp
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\VBCSCompiler.exe
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\VBCSCompiler.exe.config
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.SqlServer.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Web.Infrastructure.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Helpers.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Mvc.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Razor.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Deployment.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Razor.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.xml
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.SqlServer.xml
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Helpers.xml
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Mvc.xml
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Razor.xml
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.xml
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Deployment.xml
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Razor.xml
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.CoreCompileInputs.cache
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.CopyComplete
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.dll
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.pdb
+E:\1268484\M 7\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.AssemblyReference.cache
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.AssemblyReference.cache
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.pdb
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.dll.config
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.pdb
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.exe
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.exe.config
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.rsp
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.exe
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.exe.config
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.rsp
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Buffers.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Memory.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.exe
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.exe.config
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.rsp
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Helpers.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Mvc.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Razor.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Razor.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Helpers.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Mvc.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Razor.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Razor.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.CopyComplete
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.dll.config
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.pdb
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.exe
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.exe.config
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.rsp
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.exe
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.exe.config
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.rsp
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Buffers.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Collections.Immutable.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Memory.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Numerics.Vectors.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Reflection.Metadata.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.exe
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.exe.config
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.rsp
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\VBCSCompiler.exe
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\VBCSCompiler.exe.config
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.SqlServer.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Web.Infrastructure.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Helpers.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Mvc.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Razor.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Deployment.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Razor.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.xml
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.SqlServer.xml
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Helpers.xml
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Mvc.xml
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Razor.xml
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.xml
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Deployment.xml
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Razor.xml
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.AssemblyReference.cache
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.CoreCompileInputs.cache
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.CopyComplete
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.dll
+M:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.pdb
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.dll.config
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.pdb
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.exe
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.exe.config
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.rsp
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.exe
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.exe.config
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.rsp
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Buffers.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Memory.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.exe
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.exe.config
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.rsp
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Helpers.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Mvc.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Razor.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Razor.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.xml
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Helpers.xml
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Mvc.xml
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Razor.xml
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.xml
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Razor.xml
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.CopyComplete
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.pdb
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Newtonsoft.Json.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Owin.dll
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.xml
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.xml
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\LAB101-10\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Newtonsoft.Json.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Newtonsoft.Json.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Owin.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Newtonsoft.Json.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.dll.config
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.pdb
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.exe
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.exe.config
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.rsp
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.exe
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.exe.config
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.rsp
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Buffers.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Collections.Immutable.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Memory.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Numerics.Vectors.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Reflection.Metadata.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.exe
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.exe.config
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.rsp
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\VBCSCompiler.exe
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\VBCSCompiler.exe.config
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.SqlServer.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Core.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.Cookies.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.OAuth.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Web.Infrastructure.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Newtonsoft.Json.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Owin.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Helpers.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Mvc.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Razor.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Deployment.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Razor.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.SqlServer.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Core.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.Cookies.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.OAuth.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Newtonsoft.Json.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Helpers.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Mvc.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Razor.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Deployment.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Razor.xml
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.AssemblyReference.cache
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.CoreCompileInputs.cache
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.CopyComplete
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.dll
+J:\Module_07_MVC\Final Project\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.pdb
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.dll.config
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.pdb
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.exe
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.exe.config
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.rsp
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.exe
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.exe.config
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.rsp
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Buffers.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Collections.Immutable.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Memory.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Numerics.Vectors.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Reflection.Metadata.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.exe
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.exe.config
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.rsp
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\VBCSCompiler.exe
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\VBCSCompiler.exe.config
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.SqlServer.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Core.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.Cookies.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.OAuth.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Web.Infrastructure.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Newtonsoft.Json.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Owin.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Helpers.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Mvc.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Razor.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Deployment.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Razor.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.xml
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.SqlServer.xml
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Core.xml
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.xml
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.xml
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.Cookies.xml
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.OAuth.xml
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Newtonsoft.Json.xml
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Helpers.xml
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Mvc.xml
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Razor.xml
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.xml
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Deployment.xml
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Razor.xml
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.AssemblyReference.cache
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.CoreCompileInputs.cache
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.CopyComplete
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.dll
+I:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.pdb
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.dll.config
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.pdb
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.exe
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.exe.config
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.rsp
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.exe
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.exe.config
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.rsp
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Buffers.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Collections.Immutable.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Memory.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Numerics.Vectors.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Reflection.Metadata.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.exe
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.exe.config
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.rsp
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\VBCSCompiler.exe
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\VBCSCompiler.exe.config
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.SqlServer.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Core.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.Cookies.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.OAuth.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Web.Infrastructure.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Newtonsoft.Json.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Owin.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Helpers.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Mvc.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Razor.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Deployment.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Razor.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.xml
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.SqlServer.xml
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Core.xml
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.xml
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.xml
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.Cookies.xml
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.OAuth.xml
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Newtonsoft.Json.xml
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Helpers.xml
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Mvc.xml
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Razor.xml
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.xml
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Deployment.xml
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Razor.xml
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.AssemblyReference.cache
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.CoreCompileInputs.cache
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.CopyComplete
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.dll
+F:\All Project\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.pdb
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.dll.config
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\MVC_BookRepository_CRUD.pdb
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.exe
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.exe.config
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csc.rsp
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.exe
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.exe.config
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\csi.rsp
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Buffers.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Collections.Immutable.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Memory.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Numerics.Vectors.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Reflection.Metadata.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.exe
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.exe.config
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\vbc.rsp
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\VBCSCompiler.exe
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\roslyn\VBCSCompiler.exe.config
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.SqlServer.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Core.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.Cookies.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.OAuth.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Web.Infrastructure.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Newtonsoft.Json.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Owin.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Helpers.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Mvc.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Razor.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Deployment.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Razor.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.xml
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\EntityFramework.SqlServer.xml
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Core.xml
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.xml
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.xml
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.Cookies.xml
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Microsoft.Owin.Security.OAuth.xml
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\Newtonsoft.Json.xml
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Helpers.xml
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Mvc.xml
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.Razor.xml
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.xml
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Deployment.xml
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\bin\System.Web.WebPages.Razor.xml
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.AssemblyReference.cache
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.CoreCompileInputs.cache
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.csproj.CopyComplete
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.dll
+G:\ASP.NET PROJECT\ASP.NET MVC\MVC_BookRepository_CRUD\MVC_BookRepository_CRUD\obj\Debug\MVC_BookRepository_CRUD.pdb

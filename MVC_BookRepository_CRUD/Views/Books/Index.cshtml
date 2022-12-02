@@ -1,0 +1,44 @@
+﻿@model IEnumerable< MVC_BookRepository_CRUD.Models.Book>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h3 class=" col-12 text-center text-info bg-secondary">Books</h3>
+        <div class="d-flex justify-content-end mb-1">
+            @Html.ActionLink("Add New", "Create", "Books", new { }, new { @class = "btn btn-primary btn-sm" })
+        </div>
+        <table class="table table-bordered table-striped">
+            <thead class="bg-light">
+                <tr>
+                    <th class="text-center">Image</th>
+                    <th class="text-center">@Html.DisplayNameFor(x => x.BookName)</th>
+                    <th class="text-center">@Html.DisplayNameFor(x => x.PublishDate)</th>
+                    <th class="text-center">@Html.DisplayNameFor(x => x.Price)</th>
+                    <th class="text-center">@Html.DisplayNameFor(x => x.Available)</th>
+                    <th class="text-center">@Html.DisplayNameFor(x => x.Publisher.PublisherName)</th>                   
+                    <th class="text-center">Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var b in Model)
+                {
+                    <tr>
+                        <td><img src="~/Uploads/@b.Picture" class="img-thumbnail" style="width:50px" /></td>
+                        <td>@Html.DisplayFor(x => b.BookName)</td>
+                        <td>@Html.DisplayFor(x => b.PublishDate)</td>
+                        <td>@Html.DisplayFor(x => b.Price)</td>
+                        <td>@Html.DisplayFor(x => b.Available)</td>
+                        <td>@Html.DisplayFor(x => b.Publisher.PublisherName)</td>                       
+                       <td>
+                            @Html.ActionLink("Edit", "Edit", "Books", new { id = b.BookId }, new { @class = "btn btn-secondary btn-sm" })
+                            <a href="@Url.Action("Delete", "Books", new {id=b.BookId})" class="btn btn-danger btn-sm">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

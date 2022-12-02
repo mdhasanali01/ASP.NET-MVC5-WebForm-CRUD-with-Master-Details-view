@@ -1,0 +1,35 @@
+﻿@model MVC_BookRepository_CRUD.Models.Topic
+@using (Ajax.BeginForm("EditTopic", "Topics", new { }, new AjaxOptions
+{
+    HttpMethod = "Post",
+    InsertionMode = InsertionMode.Replace,
+    UpdateTargetId = "alert",
+    LoadingElementId = "spinner",
+    OnSuccess = "onSuccess"
+}, new { id = "f" }))
+{
+    @Html.HiddenFor(x => x.TopicId)
+    <div class="form-group row mb-1">
+        @Html.LabelFor(x => x.TopicName, new { @class = "col-form-label col-form-label-sm col-2" })
+        <div class="col-4">
+            @Html.TextBoxFor(x => x.TopicName, new { @class = "form-control form-control-sm" })
+            @Html.ValidationMessageFor(x => x.TopicName, "", new { @class = "text-danger" })
+        </div>
+    </div>    
+    if (Request.UrlReferrer != null)
+    {
+        string returnURL = Request.UrlReferrer.ToString();
+        ViewBag.ReturnURL = returnURL;
+    }
+
+    <div class="row">
+        <div class="col-12 form-group row mb-1">
+
+            <div class="col-4 offset-2">
+                <button type="submit" class="btn btn-primary px-3">Save</button>
+                <a href="@ViewBag.ReturnURL" class="btn btn-secondary px-3">Back</a>
+            </div>
+
+        </div>
+    </div>
+}

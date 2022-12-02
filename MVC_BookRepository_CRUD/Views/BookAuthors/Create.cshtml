@@ -1,0 +1,122 @@
+﻿@model MVC_BookRepository_CRUD.ViewModels.AuthorBookInputModel
+@{
+    ViewBag.Title = "Create";
+}
+
+<div id="frm">
+    <div class="row">
+        <div class="col-12">
+            <h3>Create new Book entry</h3>
+            @using (Html.BeginForm("Create", "BookAuthors", FormMethod.Post, new { id = "f", enctype = "multipart/form-data" }))
+            {
+                <div class="form-group mb-1">
+                    @Html.LabelFor(x => x.BookName, new { @class = "col-form-label col-2" })
+                    <div class="col-4">
+                        @Html.TextBoxFor(x => x.BookName, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.BookName, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group mb-1">
+                    @Html.LabelFor(x => x.PublishDate, new { @class = "col-form-label col-2" })
+                    <div class="col-4">
+                        @Html.TextBoxFor(x => x.PublishDate, new { @class = "form-control date" })
+                        @Html.ValidationMessageFor(x => x.PublishDate, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group mb-1">
+                    @Html.LabelFor(x => x.Price, new { @class = "col-form-label col-2" })
+                    <div class="col-4">
+                        @Html.TextBoxFor(x => x.Price, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.Price, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group mb-1">
+                    @Html.LabelFor(x => x.Available, new { @class = "col-form-label col-2" })
+                    <div class="col-4">
+                        @Html.CheckBoxFor(x => x.Available, new { @class = "form-check" })
+                        @Html.ValidationMessageFor(x => x.Available, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group mb-1">
+                    @Html.LabelFor(x => x.PublisherId, new { @class = "col-form-label col-2" })
+                    <div class="col-4">
+                        @Html.DropDownListFor(x => x.PublisherId, new SelectList(ViewBag.Publishers, "PublisherId", "PublisherName"), "Select", new { @class = "form-select form-select-sm" })
+                        @Html.ValidationMessageFor(x => x.PublisherId, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group mb-1">
+                    @Html.LabelFor(x => x.Picture, new { @class = "col-form-label col-2" })
+                    <div class="col-4">
+                        @Html.TextBoxFor(x => x.Picture, new { @class = "form-control", type = "file" })
+                        @Html.ValidationMessageFor(x => x.Picture, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="d-flex justify-content-between mb-1">
+                    <h4>Authors</h4>
+                    <button type="button" id="add" class="btn btn-secondary btn-sm">+</button>
+                </div>
+                <div id="child">
+                    @Html.Action("CreateNewField")
+                </div>
+                <div class="form-group mb-1">
+
+                    <div class="col-4 offset-2">
+                        <button type="submit" class="btn btn-primary">Save</button>
+
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+@section styles {   
+    <link href="~/Content/bootstrap-datepicker.standalone.css" rel="stylesheet" />
+    <style>
+        .col2 {
+            display: grid;
+            grid-template-columns: 2fr 1fr 2fr 1fre
+        }
+    </style>
+}
+@section scripts {
+    <script src="~/Scripts/jquery-3.6.0.js"></script>
+    <script src="~/Scripts/bootstrap-datepicker.js"></script>
+    <script>
+        $(".date").datepicker({
+            format: "yyyy-mm-dd"
+        });
+    </script>
+    <script>
+        $(() => {
+            $('.select').change(function () {
+                var p = $(this).attr("id").split("__")[0];
+                console.log($(this).val());
+                $.ajax({
+                    type: "POST",
+                    url: '/BookAuthors/GetAddress/' + $(this).val(),
+                    dataType: "json",
+                    success: data => {
+                        console.log(data);
+                        $(`#${p}__Address`).val(data);
+                    }
+                })
+            });
+            $("#add").click(() => {
+                var data = $("#f").serialize();
+                console.log(data);
+                $.ajax({
+                    type: "POST",
+                    url: "/BookAuthors/CreateNewField",
+
+                    data: data,
+                    success: r => {
+                        $("#child").append(r);
+                    }
+
+                });
+            });
+        });
+       
+    </script>
+}
+

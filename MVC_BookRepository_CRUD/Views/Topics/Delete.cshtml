@@ -1,0 +1,37 @@
+﻿@model MVC_BookRepository_CRUD.Models.Topic
+@{
+    ViewBag.Title = "Delete";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h3 class="col-6 text-center text-info bg-secondary">Cofirm delete</h3>
+    </div>
+    <div class="col-12">
+        <div class="form-group row mb-1">
+            @Html.LabelFor(x => x.TopicName, new { @class = "col-form-label col-form-label-sm col-2" })
+            <div class="col-4">
+                @Html.DisplayFor(x => x.TopicName, new { @class = "form-control form-control-sm" })
+
+            </div>
+        </div>
+        
+        @if (Request.UrlReferrer != null)
+        {
+            string returnURL = Request.UrlReferrer.ToString();
+            ViewBag.ReturnURL = returnURL;
+        }
+        <div class="form-group row mb-1">
+
+            @using (Html.BeginForm())
+            {
+                @Html.HiddenFor(x => x.TopicId)
+                <div class="col-4 offset-2">
+                    <button type="submit" class="btn btn-danger">Confirm Delete</button>
+                    <a href="@ViewBag.ReturnURL" class="btn btn-secondary px-3">Back</a>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+

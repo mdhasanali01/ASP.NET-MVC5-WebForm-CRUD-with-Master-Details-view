@@ -1,0 +1,39 @@
+﻿@model IEnumerable<MVC_BookRepository_CRUD.Models.Publisher>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h3 class="col-12 text-center text-info bg-secondary">Publishers</h3>
+        <div class="d-flex justify-content-end mb-1">
+            @Html.ActionLink("Add New", "Create", "Publishers", new { }, new { @class = "btn btn-primary btn-sm" })
+        </div>
+        <table class="table table-bordered table-striped">
+            <thead class="bg-light ">
+                <tr>
+                    <th class="text-center">@Html.DisplayNameFor(x => x.PublisherName)</th>
+                    <th class="text-center">@Html.DisplayNameFor(x => x.Address)</th>
+                    <th class="text-center">@Html.DisplayNameFor(x => x.Email)</th>
+                    <th class="text-center">Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var b in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(x => b.PublisherName)</td>
+                        <td>@Html.DisplayFor(x => b.Address)</td>
+                        <td>@Html.DisplayFor(x => b.Email)</td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", "Publishers", new { id = b.PublisherId }, new { @class = "btn btn-secondary btn-sm" })
+                            <a href="@Url.Action("Delete", "Publishers", new {id=b.PublisherId})" class="btn btn-danger btn-sm @(b.Books.Count > 0 ? "disabled" :"")">Delete</a>
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>
+

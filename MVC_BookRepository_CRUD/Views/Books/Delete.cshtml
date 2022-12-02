@@ -1,0 +1,71 @@
+﻿@model MVC_BookRepository_CRUD.Models.Book
+@{
+    ViewBag.Title = "Delete";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h3 class="text-danger mb-2">Are you sure to delete?</h3>
+
+        @Html.HiddenFor(x => x.BookId)
+        <div class="form-group row mb-1">
+            @Html.LabelFor(x => x.BookName, new { @class = "col-form-label col-form-label-sm col-2" })
+            <div class="col-4">
+                @Html.DisplayFor(x => x.BookName)
+
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            @Html.LabelFor(x => x.PublishDate, new { @class = "col-form-label col-form-label-sm col-2" })
+            <div class="col-4">
+                @Html.DisplayFor(x => x.PublishDate)
+
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            @Html.LabelFor(x => x.Price, new { @class = "col-form-label col-form-label-sm col-2" })
+            <div class="col-4">
+                @Html.DisplayFor(x => x.Price)
+
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            @Html.LabelFor(x => x.Available, new { @class = "col-form-label col-form-label-sm col-2" })
+            <div class="col-4">
+                @Html.DisplayFor(x => x.Available)
+
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            @Html.LabelFor(x => x.Publisher, new { @class = "col-form-label col-form-label-sm col-2" })
+            <div class="col-4">
+                @Html.DisplayFor(x => x.Publisher.PublisherName)
+
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            @Html.LabelFor(x => x.Picture, new { @class = "col-form-label col-form-label-sm col-2" })
+            <div class="col-4">
+                <img src="~/Uploads/@Model.Picture" class="img-thumbnail" style="width:50px" />
+
+            </div>
+
+        </div>
+        @if (Request.UrlReferrer != null)
+        {
+        string returnURL = Request.UrlReferrer.ToString();
+        ViewBag.ReturnURL = returnURL;
+        }
+
+        @using (Html.BeginForm("Delete", "Books", new { id = Model.BookId }, FormMethod.Post))
+        {
+
+            <div class="col-4 offset-2">
+                <button type="submit" class="btn btn-danger">Confirm Delete</button>
+                <a href="@ViewBag.ReturnURL" class="btn btn-secondary px-3">Back</a>
+            </div>
+        }
+    </div>       
+    
+</div>
+
